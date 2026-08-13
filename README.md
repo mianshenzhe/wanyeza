@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/31016883/README.md)
 # 🎬 B站关注UP主收藏夹
 
-> 一个纯前端的 Bilibili 关注 UP 主收藏与展示页面，支持搜索、分类筛选、分组收藏、主题切换等功能，数据来源于 B 站关注列表。
+> 一个纯前端的 Bilibili 关注 UP 主收藏与展示页面，支持搜索、分类筛选、分组收藏、主题切换等功能，数据来源于 B 站关注列表。访问https://mianshenzhe.github.io/wanyeza/
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
